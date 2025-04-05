@@ -1,0 +1,9 @@
+# Core Libraries 
+# Environment and Data Handling
+python-dotenv  
+ipykernel  
+streamlit  
+requests
+numpy
+pandas
+openai
