@@ -2,6 +2,7 @@
 
 Turn boring company websites into hilarious, brochure-worthy markdown content powered by OpenAI's GPT-4o-mini. This Streamlit app scrapes a company’s landing page, analyzes useful links (like About or Careers), and generates a fun, marketing-style brochure for download.
 
+**App Link**: https://project-company-brochure-generator-akkschqjkzmaw2pdvcdcbr.streamlit.app/
 ---
 
 ## 🧠 What It Does
